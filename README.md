@@ -1,6 +1,12 @@
 # E-commerce com Vue.js & Options API
 
-Projeto criado para a tarefa da Aula 03 do Projeto TIC-HUB 12 Full Stack.
+Projeto criado para a tarefa da Aula 03 do Projeto TIC-HUB 12 Full Stack. [Uma demonstração do projeto pode ser vista no YouTube](https://youtu.be/Ig4PFYJW_DY).
+
+## 📹 Demo
+
+Click on the flowing link/image to see the demo video:
+
+[![https://youtu.be/Ig4PFYJW_DY](https://img.youtube.com/vi/Ig4PFYJW_DY/maxresdefault.jpg)](https://youtu.be/Ig4PFYJW_DY)
 
 ## Requisitos
 
